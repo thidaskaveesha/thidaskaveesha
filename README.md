@@ -1,4 +1,5 @@
 [![An image of @thidaskaveesha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thidaskaveesha)](https://holopin.io/@thidaskaveesha)
+<img align="right" alt="Coding" width="100%" src="https://i.ibb.co/9vQpNC4/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <h1 align="center">Hi 👋, I'm Thidas Senavirathna</h1>
 <h3 align="center">A Software Developer ( ) => { print("From Sri Lanka") }</h3>
 
