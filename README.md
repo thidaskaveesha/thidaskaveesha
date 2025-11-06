@@ -1,4 +1,4 @@
-# Hello there,
+# Hello there, I'm Thidas Senavirathna
 <div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=888888&width=435&lines=I'm+Thidas+Senavirathna;AI+Enthusiast;Web+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
